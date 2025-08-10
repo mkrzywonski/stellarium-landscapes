@@ -1,6 +1,6 @@
 # stellarium-landscapes
 ### Installation
-1. Download chosen landscape to your PC
+1. Clone this repository to your PC. {git clone https://github.com/mkrzywonski/stellarium-landscapes}
 2. Launch Stellarium
 3. Press F4 to open the View options window
 4. Select the Landscape tab at the top of the window
