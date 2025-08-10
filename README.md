@@ -1,9 +1,10 @@
 # stellarium-landscapes
 ### Installation
-1. Launch Stellarium
-2. Press F4 to open the View options window
-3. Select the Landscape tab at the top of the window
-4. Click the "Add/remove landscapes" button at the bottom of the window
-5. Click "Install a new landscape from a ZIP archive"
-6. Select the zip file for the chosen landscape
-7. Enjoy!
+1. Download chosen landscape to your PC
+2. Launch Stellarium
+3. Press F4 to open the View options window
+4. Select the Landscape tab at the top of the window
+5. Click the "Add/remove landscapes" button at the bottom of the window
+6. Click "Install a new landscape from a ZIP archive"
+7. Select the downloaded zip file for the chosen landscape
+8. Enjoy!
